@@ -27691,5 +27691,40 @@
     "outfit": "turkey",
     "from": "2030-11-28",
     "text": "Happy Thanksgiving. I dressed as a turkey. Pass the pie."
+  },
+  {
+    "category": "outfit",
+    "type": "outfit",
+    "outfit": "soldout",
+    "from": "2026-11-27",
+    "text": "Black Friday. Sold out of stress. Fresh stock of calm."
+  },
+  {
+    "category": "outfit",
+    "type": "outfit",
+    "outfit": "soldout",
+    "from": "2027-11-26",
+    "text": "Black Friday. Sold out of stress. Fresh stock of calm."
+  },
+  {
+    "category": "outfit",
+    "type": "outfit",
+    "outfit": "soldout",
+    "from": "2028-11-24",
+    "text": "Black Friday. Sold out of stress. Fresh stock of calm."
+  },
+  {
+    "category": "outfit",
+    "type": "outfit",
+    "outfit": "soldout",
+    "from": "2029-11-23",
+    "text": "Black Friday. Sold out of stress. Fresh stock of calm."
+  },
+  {
+    "category": "outfit",
+    "type": "outfit",
+    "outfit": "soldout",
+    "from": "2030-11-29",
+    "text": "Black Friday. Sold out of stress. Fresh stock of calm."
   }
 ]
