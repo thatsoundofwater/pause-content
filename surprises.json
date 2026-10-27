@@ -27656,5 +27656,40 @@
     "type": "advice",
     "text": "Sleep on big decisions. Mornings are wiser.",
     "tag": "Advice from the button"
+  },
+  {
+    "category": "outfit",
+    "type": "outfit",
+    "outfit": "turkey",
+    "from": "2026-11-26",
+    "text": "Happy Thanksgiving. I dressed as a turkey. Pass the pie."
+  },
+  {
+    "category": "outfit",
+    "type": "outfit",
+    "outfit": "turkey",
+    "from": "2027-11-25",
+    "text": "Happy Thanksgiving. I dressed as a turkey. Pass the pie."
+  },
+  {
+    "category": "outfit",
+    "type": "outfit",
+    "outfit": "turkey",
+    "from": "2028-11-23",
+    "text": "Happy Thanksgiving. I dressed as a turkey. Pass the pie."
+  },
+  {
+    "category": "outfit",
+    "type": "outfit",
+    "outfit": "turkey",
+    "from": "2029-11-22",
+    "text": "Happy Thanksgiving. I dressed as a turkey. Pass the pie."
+  },
+  {
+    "category": "outfit",
+    "type": "outfit",
+    "outfit": "turkey",
+    "from": "2030-11-28",
+    "text": "Happy Thanksgiving. I dressed as a turkey. Pass the pie."
   }
 ]
