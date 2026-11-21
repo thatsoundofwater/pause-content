@@ -28200,5 +28200,12 @@
     "text": "World Hello Day started in 1973. The idea: say hello to ten people. That's the whole holiday.",
     "from": "11-21",
     "tag": "Hello Day"
+  },
+  {
+    "category": "outfit",
+    "type": "outfit",
+    "outfit": "catears",
+    "from": "08-08",
+    "text": "International Cat Day. I'm wearing ears. They already knew."
   }
 ]
