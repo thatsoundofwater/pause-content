@@ -27963,5 +27963,242 @@
     "outfit": "soldout",
     "from": "2030-11-29",
     "text": "Black Friday. Sold out of stress. Fresh stock of calm."
+  },
+  {
+    "category": "laugh",
+    "type": "funny",
+    "text": "Happy Social Media Day. Celebrate by closing it for an hour. I'll be here.",
+    "from": "06-30",
+    "tag": "Social Media Day"
+  },
+  {
+    "category": "do",
+    "type": "action",
+    "text": "Social Media Day. Post nothing today. See how it feels.",
+    "from": "06-30",
+    "tag": "Social Media Day"
+  },
+  {
+    "category": "pause",
+    "type": "pause",
+    "text": "Day of Unplugging. I'll be here when you get back. Go.",
+    "from": "2027-03-05",
+    "tag": "Unplugging Day",
+    "to": "2027-03-06"
+  },
+  {
+    "category": "do",
+    "type": "action",
+    "text": "Unplugging Day. Put the phone in a drawer for one hour. The drawer won't tell anyone.",
+    "from": "2027-03-05",
+    "tag": "Unplugging Day",
+    "to": "2027-03-06"
+  },
+  {
+    "category": "pause",
+    "type": "pause",
+    "text": "Day of Unplugging. I'll be here when you get back. Go.",
+    "from": "2028-03-03",
+    "tag": "Unplugging Day",
+    "to": "2028-03-04"
+  },
+  {
+    "category": "do",
+    "type": "action",
+    "text": "Unplugging Day. Put the phone in a drawer for one hour. The drawer won't tell anyone.",
+    "from": "2028-03-03",
+    "tag": "Unplugging Day",
+    "to": "2028-03-04"
+  },
+  {
+    "category": "pause",
+    "type": "pause",
+    "text": "Day of Unplugging. I'll be here when you get back. Go.",
+    "from": "2029-03-02",
+    "tag": "Unplugging Day",
+    "to": "2029-03-03"
+  },
+  {
+    "category": "do",
+    "type": "action",
+    "text": "Unplugging Day. Put the phone in a drawer for one hour. The drawer won't tell anyone.",
+    "from": "2029-03-02",
+    "tag": "Unplugging Day",
+    "to": "2029-03-03"
+  },
+  {
+    "category": "pause",
+    "type": "pause",
+    "text": "Day of Unplugging. I'll be here when you get back. Go.",
+    "from": "2030-03-01",
+    "tag": "Unplugging Day",
+    "to": "2030-03-02"
+  },
+  {
+    "category": "do",
+    "type": "action",
+    "text": "Unplugging Day. Put the phone in a drawer for one hour. The drawer won't tell anyone.",
+    "from": "2030-03-01",
+    "tag": "Unplugging Day",
+    "to": "2030-03-02"
+  },
+  {
+    "category": "pause",
+    "type": "pause",
+    "text": "World Meditation Day. Close your eyes for 10 seconds. I'll wait. ...Welcome back.",
+    "from": "12-21",
+    "tag": "Meditation Day"
+  },
+  {
+    "category": "think",
+    "type": "fact",
+    "text": "The UN made December 21 World Meditation Day. The longest night of the year, for the quietest thing you can do.",
+    "from": "12-21",
+    "tag": "Meditation Day"
+  },
+  {
+    "category": "do",
+    "type": "action",
+    "text": "Earth Hour tonight. Lights off at 8:30, just for an hour. Candles count.",
+    "from": "2027-03-27",
+    "tag": "Earth Hour"
+  },
+  {
+    "category": "pause",
+    "type": "pause",
+    "text": "Earth Hour. Somewhere, a whole city is turning its lights off. Look up.",
+    "from": "2027-03-27",
+    "tag": "Earth Hour"
+  },
+  {
+    "category": "do",
+    "type": "action",
+    "text": "Earth Hour tonight. Lights off at 8:30, just for an hour. Candles count.",
+    "from": "2028-03-25",
+    "tag": "Earth Hour"
+  },
+  {
+    "category": "pause",
+    "type": "pause",
+    "text": "Earth Hour. Somewhere, a whole city is turning its lights off. Look up.",
+    "from": "2028-03-25",
+    "tag": "Earth Hour"
+  },
+  {
+    "category": "do",
+    "type": "action",
+    "text": "Earth Hour tonight. Lights off at 8:30, just for an hour. Candles count.",
+    "from": "2029-03-31",
+    "tag": "Earth Hour"
+  },
+  {
+    "category": "pause",
+    "type": "pause",
+    "text": "Earth Hour. Somewhere, a whole city is turning its lights off. Look up.",
+    "from": "2029-03-31",
+    "tag": "Earth Hour"
+  },
+  {
+    "category": "do",
+    "type": "action",
+    "text": "Earth Hour tonight. Lights off at 8:30, just for an hour. Candles count.",
+    "from": "2030-03-30",
+    "tag": "Earth Hour"
+  },
+  {
+    "category": "pause",
+    "type": "pause",
+    "text": "Earth Hour. Somewhere, a whole city is turning its lights off. Look up.",
+    "from": "2030-03-30",
+    "tag": "Earth Hour"
+  },
+  {
+    "category": "think",
+    "type": "fact",
+    "text": "It's World Radio Day. Somewhere, a song just came on that someone needed.",
+    "from": "02-13",
+    "tag": "Radio Day"
+  },
+  {
+    "category": "laugh",
+    "type": "funny",
+    "text": "World Radio Day. This is p@use FM. Now playing: nothing. Enjoy.",
+    "from": "02-13",
+    "tag": "Radio Day"
+  },
+  {
+    "category": "do",
+    "type": "action",
+    "text": "World Art Day. Draw something badly today. That's still art.",
+    "from": "04-15",
+    "tag": "Art Day"
+  },
+  {
+    "category": "think",
+    "type": "fact",
+    "text": "April 15 is World Art Day because it's Leonardo da Vinci's birthday. He painted the Mona Lisa's smile and never really finished it.",
+    "from": "04-15",
+    "tag": "Art Day"
+  },
+  {
+    "category": "do",
+    "type": "action",
+    "text": "World Hearing Day. Turn your music down a notch today. Your ears will thank you in 40 years.",
+    "from": "03-03",
+    "tag": "Hearing Day"
+  },
+  {
+    "category": "pause",
+    "type": "pause",
+    "text": "World Hearing Day. Close your eyes. How many sounds can you hear right now? Count them.",
+    "from": "03-03",
+    "tag": "Hearing Day"
+  },
+  {
+    "category": "laugh",
+    "type": "funny",
+    "text": "World Emoji Day. 🫶 That's how I feel about you.",
+    "from": "07-17",
+    "tag": "Emoji Day"
+  },
+  {
+    "category": "emojiburst",
+    "type": "emojiburst",
+    "emojis": [
+      "😊",
+      "🫶",
+      "✨"
+    ],
+    "text": "World Emoji Day. Say it without words.",
+    "from": "07-17",
+    "tag": "Emoji Day"
+  },
+  {
+    "category": "laugh",
+    "type": "funny",
+    "text": "International Cat Day. They already knew.",
+    "from": "08-08",
+    "tag": "Cat Day"
+  },
+  {
+    "category": "think",
+    "type": "fact",
+    "text": "Cats spend about two-thirds of their lives asleep. Today is their day. They'll sleep through it.",
+    "from": "08-08",
+    "tag": "Cat Day"
+  },
+  {
+    "category": "do",
+    "type": "action",
+    "text": "World Hello Day. Say hi to 10 people today. Start here: hi.",
+    "from": "11-21",
+    "tag": "Hello Day"
+  },
+  {
+    "category": "think",
+    "type": "fact",
+    "text": "World Hello Day started in 1973. The idea: say hello to ten people. That's the whole holiday.",
+    "from": "11-21",
+    "tag": "Hello Day"
   }
 ]
