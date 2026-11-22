@@ -1858,5 +1858,558 @@
     "type": "pause",
     "text": "Stars I can't see well\nbecause of the city lights.\nStill, I know they're there.",
     "tag": "Haiku"
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_800_photo",
+    "caption": "How he sees himself.",
+    "alt": "A house cat whose shadow on the wall is a lion."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_801_photo",
+    "caption": "One light is enough.",
+    "alt": "A pencil drawing of a dark city with one window lit by a candle."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_802_photo",
+    "caption": "Rent is cheap. Commute is unpredictable.",
+    "alt": "An ink drawing of a tiny house on the back of a sleeping whale."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_803_photo",
+    "caption": "Took the house with him.",
+    "alt": "A snail whose shell is a tiny house with a lit window."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_804_photo",
+    "caption": "Summit reached. Nobody woke up.",
+    "alt": "Tiny hikers climbing a sleeping cat like a mountain."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_805_photo",
+    "caption": "Same five minutes.",
+    "alt": "Split picture: someone on a bench scrolling, then the same person looking up at the sunset."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_806_photo",
+    "caption": "Let it go. It knows the way.",
+    "alt": "Brown brush strokes of two hands letting a bird fly away."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_807_photo",
+    "caption": "One was enough.",
+    "alt": "Split picture: one old instant photo of a sunset, then a phone full of the same sunset."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_808_photo",
+    "caption": "Still in there.",
+    "alt": "A tired adult walking home whose shadow is a kid skipping."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_809_photo",
+    "caption": "Worth the storm.",
+    "alt": "A thick painted sunset bursting through storm clouds over a tiny farmhouse."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_810_photo",
+    "caption": "Some doors are drawn on purpose.",
+    "alt": "A chalk drawing of a door on a wall, with real light coming through it."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_811_photo",
+    "caption": "Living dangerously.",
+    "alt": "A snail climbing a Speed Limit 5 sign."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_812_photo",
+    "caption": "The whole street, in one drop.",
+    "alt": "A raindrop on a window with the street upside down inside it."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_813_photo",
+    "caption": "Still waiting for that letter.",
+    "alt": "A red mailbox alone on a huge white salt flat."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_814_photo",
+    "caption": "Fall, staying a little longer.",
+    "alt": "One orange leaf on fresh snow."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_815_photo",
+    "caption": "Off duty. Barely.",
+    "alt": "A kid in pajamas whose shadow wears a superhero cape."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_816_photo",
+    "caption": "Someone's always home.",
+    "alt": "A coat rack whose shadow looks like a person waving."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_817_photo",
+    "caption": "Found the good spot.",
+    "alt": "Stripes of sunlight on a floor, one landing right on a sleeping dog."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_818_photo",
+    "caption": "Every hero needs a day job.",
+    "alt": "A mop and bucket whose shadow is a knight."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_819_photo",
+    "caption": "Big plans tonight.",
+    "alt": "A small dog whose shadow is a wolf howling."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_820_photo",
+    "caption": "On vacation in its head.",
+    "alt": "A houseplant whose shadow is a palm tree."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_821_photo",
+    "caption": "Moving slowly. Never late.",
+    "alt": "A tiny town on the back of a sleeping sea turtle."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_822_photo",
+    "caption": "A city of stories.",
+    "alt": "A tiny city with streetlights built on a stack of old books."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_823_photo",
+    "caption": "Some nights you keep.",
+    "alt": "A glass jar holding a tiny glowing city at night."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_824_photo",
+    "caption": "Time, but make it fun.",
+    "alt": "A tiny Ferris wheel inside an open pocket watch."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_825_photo",
+    "caption": "Next stop: the chorus.",
+    "alt": "A tiny train riding the grooves of a vinyl record."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_826_photo",
+    "caption": "Booked the whole island.",
+    "alt": "A tiny tent and campfire on a mossy rock in a creek."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_827_photo",
+    "caption": "Farm to table. Literally.",
+    "alt": "A tiny farm built on a slice of toast."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_828_photo",
+    "caption": "Somewhere it's always a rainy Sunday.",
+    "alt": "A snow globe with a tiny neighborhood where it's raining."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_829_photo",
+    "caption": "Keeping the puddle safe.",
+    "alt": "A tiny lighthouse on a pebble in a rain puddle."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_830_photo",
+    "caption": "Cozy is a size.",
+    "alt": "A tiny glowing cabin inside a pinecone."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_831_photo",
+    "caption": "Catching up.",
+    "alt": "An otter floating on its back reading a tiny newspaper."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_832_photo",
+    "caption": "Prepared.",
+    "alt": "A heron in the rain holding a tiny umbrella."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_833_photo",
+    "caption": "Knew a guy.",
+    "alt": "A frog staying dry under a mushroom in the rain."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_834_photo",
+    "caption": "Running late. As usual.",
+    "alt": "A penguin waiting alone at a snowy bus stop."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_835_photo",
+    "caption": "Long week.",
+    "alt": "A bear sitting on a dock at sunset with its feet in the water."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_836_photo",
+    "caption": "Do not disturb.",
+    "alt": "A hedgehog asleep in a teacup under a tiny blanket."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_837_photo",
+    "caption": "Someday.",
+    "alt": "A goldfish in a bowl looking at a poster of the ocean."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_838_photo",
+    "caption": "You good?",
+    "alt": "A deer in a foggy field looking right at you."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_839_photo",
+    "caption": "Up late again.",
+    "alt": "An owl wearing tiny reading glasses at night."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_840_photo",
+    "caption": "Rules are rules.",
+    "alt": "A duck family crossing a tiny crosswalk in a park."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_841_photo",
+    "caption": "Best seat in the house.",
+    "alt": "A pencil sketch of a cat asleep in a guitar case."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_842_photo",
+    "caption": "Someone has to keep it company.",
+    "alt": "A charcoal drawing of a streetlamp in fog with one moth."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_843_photo",
+    "caption": "Nothing's biting. Perfect.",
+    "alt": "A blue pen drawing of an astronaut fishing off the moon."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_844_photo",
+    "caption": "Rain check.",
+    "alt": "A colored pencil drawing of a fox asleep under a mushroom in the rain."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_845_photo",
+    "caption": "Head in the clouds. Feet too.",
+    "alt": "An ink drawing of a tiny house on a cloud with a ladder."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_846_photo",
+    "caption": "Somebody's having a good night.",
+    "alt": "A dark pencil forest with one glowing tent."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_847_photo",
+    "caption": "Something big is keeping you company.",
+    "alt": "A pencil whale deep under a tiny boat with a glowing lantern."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_848_photo",
+    "caption": "Done being a drawing.",
+    "alt": "A drawn bird stepping off the page onto a real pencil."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_849_photo",
+    "caption": "Saving the sunset for later.",
+    "alt": "A watercolor sunset dripping off the page into a glass of water."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_850_photo",
+    "caption": "Drawn fresh.",
+    "alt": "A pencil drawing of a cup with real steam rising from it."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_851_photo",
+    "caption": "Got a little carried away.",
+    "alt": "A painted wave spilling off the canvas as real water."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_852_photo",
+    "caption": "Home, from a distance.",
+    "alt": "A painterly town of rooftops seen through bare branches, one red house in the middle."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_853_photo",
+    "caption": "Everyone on it is going home.",
+    "alt": "A lit train crossing a bridge at dusk, seen through bare branches."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_854_photo",
+    "caption": "The moon got a ride.",
+    "alt": "A double exposure of a Ferris wheel and the full moon."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_855_photo",
+    "caption": "Open late, just in case.",
+    "alt": "A neon open sign reflected over a cup of coffee in a diner window."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_856_photo",
+    "caption": "Rainy keys.",
+    "alt": "A double exposure of a piano and falling rain."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_857_photo",
+    "caption": "The sky showing off.",
+    "alt": "A thick painted aurora over a small snowy cabin."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_858_photo",
+    "caption": "That's the whole painting.",
+    "alt": "A few brown brush strokes of two people hugging."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_859_photo",
+    "caption": "It's okay to stop.",
+    "alt": "A few brown strokes of someone resting their head on their knees."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_860_photo",
+    "caption": "Nobody watching. Perfect.",
+    "alt": "One brown brush stroke of someone dancing alone."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_861_photo",
+    "caption": "Above it all, for once.",
+    "alt": "A hot-air balloon floating over a sea of fog."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_862_photo",
+    "caption": "Going nowhere. Gladly.",
+    "alt": "A rowboat at a dock on a perfectly still lake."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_863_photo",
+    "caption": "Left the light on for you.",
+    "alt": "One streetlight on in an empty snowy parking lot."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_864_photo",
+    "caption": "Off season. Still on duty.",
+    "alt": "A lifeguard chair alone on a frozen beach with a red flag."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_865_photo",
+    "caption": "Took a different way home.",
+    "alt": "Footprints in snow that stop in the middle of a field."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_866_photo",
+    "caption": "Easy to find.",
+    "alt": "A yellow raincoat on a gray rainy street, seen from above."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_867_photo",
+    "caption": "The fun neighbor.",
+    "alt": "A row of beige houses with one blue door."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_868_photo",
+    "caption": "Be the pink umbrella.",
+    "alt": "Black umbrellas in the rain and one pink one."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_869_photo",
+    "caption": "Up, eventually.",
+    "alt": "Looking straight up a spiral staircase."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_870_photo",
+    "caption": "Careful.",
+    "alt": "The moon in a puddle with a shoe about to step in."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_871_photo",
+    "caption": "Summer, from up here.",
+    "alt": "A beach from above with umbrellas like confetti."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_872_photo",
+    "caption": "Don't look down. Okay, look.",
+    "alt": "A small rowboat with a whale's shadow passing under it."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_873_photo",
+    "caption": "Bringing my own sunshine.",
+    "alt": "An orange umbrella on an empty gray pier."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_874_photo",
+    "caption": "Now playing: nothing. Finally.",
+    "alt": "A turntable playing the pause button like a record."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_875_photo",
+    "caption": "Wished for five minutes.",
+    "alt": "The pause button lying in a fountain like a wished coin."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_876_photo",
+    "caption": "Go ahead. Take a second.",
+    "alt": "A crosswalk signal showing the pause button instead of the walking person."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_877_photo",
+    "caption": "Someone couldn't wait.",
+    "alt": "A cookie decorated like the pause button with a bite missing."
+  },
+  {
+    "category": "art",
+    "type": "image",
+    "image": "art_878_photo",
+    "caption": "The good kind of break.",
+    "alt": "A donut decorated like the pause button."
   }
 ]
