@@ -28186,5 +28186,77 @@
   "outfit": "catears",
   "from": "08-08",
   "text": "International Cat Day. I'm wearing ears. They already knew."
+ },
+ {
+  "category": "pause",
+  "type": "pause",
+  "text": "Full moon tonight. A supermoon, a little closer than usual. Look up once.",
+  "from": "2026-11-24",
+  "to": "2026-11-25",
+  "tag": "Supermoon"
+ },
+ {
+  "category": "think",
+  "type": "fact",
+  "text": "November's full moon is called the Beaver Moon. This year it's a supermoon, and the next two full moons come even closer.",
+  "from": "2026-11-23",
+  "to": "2026-11-25",
+  "tag": "Beaver Moon"
+ },
+ {
+  "category": "think",
+  "type": "fact",
+  "text": "Tonight the full moon passes just above the Seven Sisters, a tiny cluster of stars. Binoculars help.",
+  "from": "2026-11-24",
+  "to": "2026-11-24",
+  "tag": "Tonight"
+ },
+ {
+  "category": "think",
+  "type": "fact",
+  "text": "Good news: wild oysters were born in Scotland's Dornoch Firth this year. The first there in over 100 years.",
+  "from": "2026-11-23",
+  "to": "2026-11-29",
+  "tag": "Good news"
+ },
+ {
+  "category": "laugh",
+  "type": "funny",
+  "text": "Football all day. I'm rooting for whoever gets the last roll.",
+  "from": "2026-11-26",
+  "to": "2026-11-26",
+  "tag": "Football"
+ },
+ {
+  "category": "do",
+  "type": "action",
+  "text": "Up early? Look east before sunrise. That bright dot is Venus, at its brightest this week.",
+  "from": "2026-11-27",
+  "to": "2026-11-29",
+  "tag": "Morning star"
+ },
+ {
+  "category": "laugh",
+  "type": "funny",
+  "text": "Leftovers, day three. The sandwich has gone pro.",
+  "from": "2026-11-28",
+  "to": "2026-11-29",
+  "tag": "Long weekend"
+ },
+ {
+  "category": "pause",
+  "type": "pause",
+  "text": "The long weekend is winding down. No need to rush the last of it.",
+  "from": "2026-11-28",
+  "to": "2026-11-29",
+  "tag": "Long weekend"
+ },
+ {
+  "category": "do",
+  "type": "action",
+  "text": "Heading home today? Leave ten minutes early. Spend them on nothing.",
+  "from": "2026-11-29",
+  "to": "2026-11-29",
+  "tag": "Travel day"
  }
 ]
